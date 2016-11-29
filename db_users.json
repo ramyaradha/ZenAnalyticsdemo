@@ -1,0 +1,4 @@
+{"_id":{"$oid":"57aeb541106ef0236f509727"},"username":"CBI","password":"1234","pristine":false,"dataset":"/home/sudar/Desktop/nautilus/datasets/wZKYCXl2ZA.csv","features":["Paid Month 3"],"__v":4}
+{"_id":{"$oid":"57b012cf106ef0236f509728"},"username":"CITI","password":"1234","pristine":false,"dataset":"/home/sudar/Desktop/nautilus/datasets/gC5wBvzjOe.csv","features":["Balance  Limit","Education","Age","Paid Month 1"],"__v":2}
+{"_id":{"$oid":"57b01484106ef0236f50972a"},"username":"SBI","password":"1234","pristine":false,"dataset":"/home/sudar/Desktop/bears/nautilus/datasets/72elsPnWJ6.csv","features":["Balance  Limit","Sex","Education"],"__v":22}
+{"_id":{"$oid":"57c42b00a580e6be2a9d659f"},"username":"HDFC","password":1234.0,"pristine":false,"dataset":"/home/sudar/Desktop/nautilus/datasets/scGMLUWjNo.csv","features":["Balance  Limit","Sex","Education","Marital Status","Age","Paid Month 1"],"__v":10}

@@ -1,0 +1,32 @@
+[
+ {
+   "FIELD1": "ID",
+   "FIELD2": "Balance  Limit",
+   "FIELD3": "Sex",
+   "FIELD4": "Education",
+   "FIELD5": "Marital Status",
+   "FIELD6": "Age",
+   "FIELD7": "Paid Month 1",
+   "FIELD8": "Paid Month 2",
+   "FIELD9": "Paid Month 3",
+   "FIELD10": "Paid Month 4",
+   "FIELD11": "Paid Month 5",
+   "FIELD12": "Paid Month 6"
+   
+ },
+ {
+   "FIELD1": "30000",
+   "FIELD2": "50000",
+   "FIELD3": "1",
+   "FIELD4": "2",
+   "FIELD5": "1",
+   "FIELD6": "46",
+   "FIELD7": "0",
+   "FIELD8": "0",
+   "FIELD9": "0",
+   "FIELD10": "0",
+   "FIELD11": "0",
+   "FIELD12": "0"
+  
+ }
+]
